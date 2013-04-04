@@ -46,6 +46,8 @@ section:
   resources:
     en: resources
     fr: ressources
+  secure-your-wallet:
+    en: secure-your-wallet
   support-bitcoin:
     en: support-bitcoin
     fr: supporter-bitcoin
