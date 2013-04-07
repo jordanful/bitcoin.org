@@ -141,10 +141,17 @@ li{
 }
 
 #head{
+<<<<<<< HEAD
+	margin-top: 20px;
+}
+#head>div{
+	max-width:1040px;
+=======
 	margin:10px 0px;
 }
 #head>div{
 	max-width:1050px;
+>>>>>>> upstream/master
 	margin:auto;
 	position:relative;
 	overflow:hidden;
@@ -156,7 +163,11 @@ li{
 	text-align: center;
 }
 #body{
+<<<<<<< HEAD
+	max-width:1040px;
+=======
 	max-width:1050px;
+>>>>>>> upstream/master
 	margin:auto;
 	position:relative;
 }
@@ -273,7 +284,11 @@ li{
 
 #menu{
 	padding:0px;
+<<<<<<< HEAD
+	margin:36px auto 0px 32px;
+=======
 	margin:26px auto 0px 32px;
+>>>>>>> upstream/master
 }
 #menu li{
 	list-style:none;
@@ -298,16 +313,26 @@ li{
 	
 #content{
 	position:relative;
+<<<<<<< HEAD
+	padding:20px 270px 30px 30px;
+	max-width:780px;
+=======
 	padding:20px 265px 30px 30px;
 	margin: 0px 5px;
 	max-width:780px;
 	text-align:justify;
+>>>>>>> upstream/master
 	background-color:#fff;
 	min-height:400px;
 	border:2px solid #ebebeb;
 	border-radius: 6px;
 	-webkit-border-radius: 6px;
+<<<<<<< HEAD
+	-moz-border-radius: 6px;  
+	margin: 20px 5px;
+=======
 	-moz-border-radius: 6px;
+>>>>>>> upstream/master
 }
 
 #rightbox{
@@ -361,10 +386,18 @@ li{
 #footer{
 	position:relative;
 	top:-2px;
+<<<<<<< HEAD
+	padding-left:40px;
+	padding-bottom:20px;
+	text-align:left;
+	font-size:94%;
+	max-width:1040px;
+=======
 	padding:20px 0px 20px 40px;
 	text-align:left;
 	font-size:94%;
 	max-width:1050px;
+>>>>>>> upstream/master
 }
 #footer>div{
 	padding-top:6px;
@@ -566,7 +599,14 @@ li{
 		max-width:100%;
 	}
 	#head{
+<<<<<<< HEAD
+		margin-top:0px;
+	}
+	#content{
+		margin:0px 5px;
+=======
 		margin:0px;
+>>>>>>> upstream/master
 	}
 	#langselect{
 		background-color:transparent;
@@ -629,16 +669,27 @@ li{
 	}
 	#content{
 		position:static;
+<<<<<<< HEAD
+		padding:15px 10px 20px 10px;
+	}
+	#footer{
+		padding-left:0px;
+=======
 		margin:0px 5px;
 		padding:15px 10px 20px 10px;
 	}
 	#footer{
 		padding:0px 0px 20px 5px;
+>>>>>>> upstream/master
 		background-color:transparent;
 	}
 	.contributors{
 		width:auto;
 	}
+<<<<<<< HEAD
+
+=======
+>>>>>>> upstream/master
 	.foundation{
 		padding:20px;
 	}
